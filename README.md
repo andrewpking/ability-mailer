@@ -12,7 +12,7 @@ Hello Ability members. I have created an HTML email template. Hopefully this too
 
 1. From there edit the body as a normal HTML Document, please try to preserve inline styling.
 
-1. Be sure to use a tool that generates HTML code for images such as [this one](https://html.imageonline.co/) and do not try embedding images using any other method.
+1. Be sure to use a tool that generates HTML code for images such as [this one](https://products.groupdocs.app/conversion/png-to-html) and do not try embedding images using any other method.
 
 1. Use the [Thunderbird](https://www.thunderbird.net/en-US/) app to send an HTML Email using this [guide](https://www.lifewire.com/how-to-send-html-email-3468764)
 
